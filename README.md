@@ -3,7 +3,7 @@ L0 - Generic Penalty Calculation - Assignment - V3.0
 
 In this assignment you are expected to develop a generic function to calculate penalty for late returned 
 books for a library system.
-Requirements
+# Requirements
 1) The library function should make usage of:
 a. Date start, -- this is the date penalty calculation should start. Inclusive.
 b. Date end, -- this is the date penalty calculation should finish. Inclusive.
