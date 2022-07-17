@@ -18,7 +18,7 @@ a. Hint: Try to use DayOfWeek enumeration of .Net
 configurable based on country of operation. (DailyPenaltyFee parameter in App.config)
 6) Penalty will not apply for an allowed amount of days (PenaltyAppliesAfter parameter in 
 App.config)
-Notes
+# Notes
 1) You will develop this function in a ready to run solution environment, so take some time to 
 think thoroughly before building the solution.
 2) The solution consists of two projects, LibraryApplication and LibraryBusiness. You can run this 
@@ -45,7 +45,7 @@ values from app.config file in startup.
 less than start date or when you can’t find any configuration value for the country.
 7) Please try to construct best solution you can and make an example of good programming 
 practices both in structure and syntax. Write appropriate comments also.
-Instructions
+# Instructions
 1) You have two hours to complete this test. Any submission after this will not be accepted.
 2) After completing we kindly request you to send us back the whole solution.
 3) Please archive all the above files in one .zip or .rar file and name it with your name.
